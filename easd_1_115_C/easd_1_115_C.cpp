@@ -50,6 +50,7 @@ void input() {
 		int pivot, i, j;
 		if (low > high)		
 			return; 
+
 }
 
 
