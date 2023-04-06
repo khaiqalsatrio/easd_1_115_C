@@ -48,7 +48,7 @@ void input() {
 	void selection_sort(int low, int high)
 	{
 		int pivot, i, j;
-		if (low > high)						//langkah algoritma No. 1
+		if (low > high)		
 			return; 
 }
 
